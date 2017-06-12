@@ -1,0 +1,24 @@
+{
+  "name": "ejs-link-less-loader",
+  "version": "0.0.3",
+  "description": "A webpack loader depend on ejs, Can be introduced directly to less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luochongfei/ejs-link-less-loader.git"
+  },
+  "keywords": [
+    "webpack-loader",
+    "ejs",
+    "link",
+    "less"
+  ],
+  "author": "luochongfei",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^2.7.2"
+  }
+}
